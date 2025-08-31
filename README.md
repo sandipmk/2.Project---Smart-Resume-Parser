@@ -17,15 +17,14 @@ It parses resumes (PDF/DOCX), extracts structured details (Name ,skills, experie
 ---
 
 ## 🗂️ Project Structure
-
-project-1-smart-resume-parser/
+```
+project-2-smart-resume-parser/
 ├── app.py # Streamlit app (UI + flow)
 ├── parser.py # Resume parsing logic (spaCy + regex + PyMuPDF + docx)
 ├── report.py # PDF report generator
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
-
----
+```
 
 ---
 
