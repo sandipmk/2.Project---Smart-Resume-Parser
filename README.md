@@ -90,18 +90,18 @@ streamlit run app.py
 
 ## 🧱 Tech Stack
 
-    - Python 3.9+
+   - Python 3.9+
 
-    - Streamlit — UI
+   - Streamlit — UI
 
-    - spaCy — NLP
+   - spaCy — NLP
 
-    - PyMuPDF (fitz) — PDF text extraction
+   - PyMuPDF (fitz) — PDF text extraction
 
-    - python-docx — DOCX parsing
+   - python-docx — DOCX parsing
 
-    - ReportLab — Report generation
+   - ReportLab — Report generation
 
-    - Matplotlib + Pandas — Data analysis & visualization
+   - Matplotlib + Pandas — Data analysis & visualization
 
 ---
